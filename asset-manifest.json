@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sall6550/React-Counter-project/static/css/main.6b345091.css",
+    "main.js": "/sall6550/React-Counter-project/static/js/main.bf915eb4.js",
+    "static/js/453.ac79db8d.chunk.js": "/sall6550/React-Counter-project/static/js/453.ac79db8d.chunk.js",
+    "index.html": "/sall6550/React-Counter-project/index.html",
+    "main.6b345091.css.map": "/sall6550/React-Counter-project/static/css/main.6b345091.css.map",
+    "main.bf915eb4.js.map": "/sall6550/React-Counter-project/static/js/main.bf915eb4.js.map",
+    "453.ac79db8d.chunk.js.map": "/sall6550/React-Counter-project/static/js/453.ac79db8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b345091.css",
+    "static/js/main.bf915eb4.js"
+  ]
+}
